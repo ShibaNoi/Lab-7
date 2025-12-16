@@ -2,6 +2,7 @@
 #include<string>
 using namespace std;
 int main(){
+    
     string name;
     cout<<"Fahsai: Sawadee ka...Can you tell me your name?\n";
     getline(cin,name);
